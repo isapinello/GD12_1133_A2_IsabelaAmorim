@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|c:\\users\\s2433013\\source\\repos\\titanexplorer\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|c:\\users\\s2433013\\source\\repos\\titanexplorer\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|c:\\users\\s2433013\\source\\repos\\titanexplorer\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|c:\\users\\s2433013\\source\\repos\\titanexplorer\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|c:\\users\\s2433013\\source\\repos\\titanexplorer\\combatsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|solutionrelative:combatsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|c:\\users\\s2433013\\source\\repos\\titanexplorer\\decomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|solutionrelative:decomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|c:\\users\\s2433013\\source\\repos\\titanexplorer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB69623-15FE-4176-AA6B-71D605D4C361}|TitanExplorer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:05:41.807Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\GameManager.cs",
+              "RelativeDocumentMoniker": "GameManager.cs",
+              "ToolTip": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\GameManager.cs",
+              "RelativeToolTip": "GameManager.cs",
+              "ViewState": "AQIAACEBAAAAAAAAAAAiwCkBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:06:21.856Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Decomposer.cs",
+              "DocumentMoniker": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\Decomposer.cs",
+              "RelativeDocumentMoniker": "Decomposer.cs",
+              "ToolTip": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\Decomposer.cs",
+              "RelativeToolTip": "Decomposer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvxsAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:41:45.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CombatSystem.cs",
+              "DocumentMoniker": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\CombatSystem.cs",
+              "RelativeDocumentMoniker": "CombatSystem.cs",
+              "ToolTip": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\CombatSystem.cs",
+              "RelativeToolTip": "CombatSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:47:50.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:41:32.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\Weapon.cs",
+              "RelativeDocumentMoniker": "Weapon.cs",
+              "ToolTip": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\Weapon.cs",
+              "RelativeToolTip": "Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:56:00.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\Room.cs",
+              "RelativeDocumentMoniker": "Room.cs",
+              "ToolTip": "C:\\Users\\s2433013\\source\\repos\\TitanExplorer\\Room.cs",
+              "RelativeToolTip": "Room.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:07:33.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

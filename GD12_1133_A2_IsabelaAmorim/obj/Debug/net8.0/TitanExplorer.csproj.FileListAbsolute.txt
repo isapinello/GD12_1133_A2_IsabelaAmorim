@@ -1,0 +1,14 @@
+C:\Users\s2433013\source\repos\TitanExplorer\bin\Debug\net8.0\TitanExplorer.exe
+C:\Users\s2433013\source\repos\TitanExplorer\bin\Debug\net8.0\TitanExplorer.deps.json
+C:\Users\s2433013\source\repos\TitanExplorer\bin\Debug\net8.0\TitanExplorer.runtimeconfig.json
+C:\Users\s2433013\source\repos\TitanExplorer\bin\Debug\net8.0\TitanExplorer.dll
+C:\Users\s2433013\source\repos\TitanExplorer\bin\Debug\net8.0\TitanExplorer.pdb
+C:\Users\s2433013\source\repos\TitanExplorer\obj\Debug\net8.0\TitanExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2433013\source\repos\TitanExplorer\obj\Debug\net8.0\TitanExplorer.AssemblyInfoInputs.cache
+C:\Users\s2433013\source\repos\TitanExplorer\obj\Debug\net8.0\TitanExplorer.AssemblyInfo.cs
+C:\Users\s2433013\source\repos\TitanExplorer\obj\Debug\net8.0\TitanExplorer.csproj.CoreCompileInputs.cache
+C:\Users\s2433013\source\repos\TitanExplorer\obj\Debug\net8.0\TitanExplorer.dll
+C:\Users\s2433013\source\repos\TitanExplorer\obj\Debug\net8.0\refint\TitanExplorer.dll
+C:\Users\s2433013\source\repos\TitanExplorer\obj\Debug\net8.0\TitanExplorer.pdb
+C:\Users\s2433013\source\repos\TitanExplorer\obj\Debug\net8.0\TitanExplorer.genruntimeconfig.cache
+C:\Users\s2433013\source\repos\TitanExplorer\obj\Debug\net8.0\ref\TitanExplorer.dll
